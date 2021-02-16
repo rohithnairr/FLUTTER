@@ -24,7 +24,9 @@ v12.11.0
 The easiest way to get started with Keystone is to use the Yeoman generator:
  > $ npm install -g generator-keystone
  
- ## How to run the project 
+### How to run the project 
+
+Clone or download the repository 
  
  First, grab the dependencies:
  >npm install
