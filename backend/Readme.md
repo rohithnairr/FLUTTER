@@ -1,5 +1,5 @@
 # Prerequisites
-Before you begin, make sure you have [Node.Js](https://nodejs.org/en/ ) and MongoDB v2.4+ installed.
+Before you begin, make sure you have [Node.Js](https://nodejs.org/en/ ) and  [MongoDB](https://docs.mongodb.com/manual/installation/) installed.
 
 
 ## Requirement
