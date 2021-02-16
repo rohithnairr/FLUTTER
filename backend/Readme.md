@@ -26,15 +26,15 @@ The easiest way to get started with Keystone is to use the Yeoman generator:
  
 ### How to run the project 
 
-Clone or download the repository 
+ Clone or download the repository 
  
- First, grab the dependencies:
+ Grab the dependencies:
  >npm install
  
  Then run the app like so:
  >node keystone
 
-And navigate to >http://0.0.0.0:3000
+ And navigate to >http://0.0.0.0:3000
  
  
 
