@@ -4,18 +4,23 @@ Before you begin, make sure you have [Node.Js](https://nodejs.org/en/ ) and  [Mo
 
 ## Requirement
 
-$ node --version
+1) node --version
 v12.11.0
 
-$ npm --version
+2) npm --version
 6.9.0
 
-$ yarn --version
+3) yarn --version
 1.17.3
 
-PostgreSQL >= 9.x
+4)PostgreSQL >= 9.x
 
-Keystone.js
+5) Keystone.js
+
+## How to install Keystone.js
+
+### Install the generator
+ > npm install -g generator-keystone
 
 
 
