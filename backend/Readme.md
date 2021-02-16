@@ -13,7 +13,7 @@ v12.11.0
 3) yarn --version
 1.17.3
 
-4)PostgreSQL >= 9.x
+4) PostgreSQL >= 9.x
 
 5) Keystone.js
 
