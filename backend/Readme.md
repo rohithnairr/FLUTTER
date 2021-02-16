@@ -1,5 +1,5 @@
 # Prerequisites
-Before you begin, make sure you have [Node.Js](https://nodejs.org/en/ ) and  [MongoDB](https://docs.mongodb.com/manual/installation/) installed.
+Before you begin, make sure you have [Node.Js](https://nodejs.org/en/ ) and  [PostgreSQL](https://www.postgresql.org/download/) installed.
 
 
 ## Requirement
@@ -20,7 +20,21 @@ v12.11.0
 ## How to install Keystone.js
 
 ### Install the generator
- > npm install -g generator-keystone
+
+The easiest way to get started with Keystone is to use the Yeoman generator:
+ > $ npm install -g generator-keystone
+ 
+ ## How to run the project 
+ 
+ First, grab the dependencies:
+ >npm install
+ 
+ Then run the app like so:
+ >node keystone
+
+And navigate to >http://0.0.0.0:3000
+ 
+ 
 
 
 
